@@ -19,6 +19,7 @@ public class BibliothequeApplication {
 		return args -> {
 			libraryRepository.save(new Library("bpi" ,null));
 			libraryRepository.save(new Library("Starbuks" ,900));
+			libraryRepository.save(new Library("IHP" ,80));
 			libraryRepository.save(new Library("Starbuks" ,90));
 			libraryRepository.save(new Library("pret à manger" ,120));
 			libraryRepository.findAll().forEach(System.out::println);
