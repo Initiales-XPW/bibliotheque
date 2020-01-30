@@ -11,7 +11,7 @@
 	<groupId>com.bpi</groupId>
 	<artifactId>bibliotheque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bibliotheque</name>
+	<name>bibliotheque_raphael</name>
 	<description>bibliotheque Paris</description>
 
 	<properties>
