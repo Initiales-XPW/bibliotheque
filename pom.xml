@@ -11,7 +11,11 @@
 	<groupId>com.bpi</groupId>
 	<artifactId>bibliotheque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<name>bibliotheque_raphael_SEGUIN</name>
+=======
+	<name>bibliotheque_salut bro</name>
+>>>>>>> 36716d3... ajout de salut bro
 	<description>Ici c'est Paris !!!!</description>
 
 	<properties>
