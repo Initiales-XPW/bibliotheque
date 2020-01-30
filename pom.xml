@@ -11,8 +11,24 @@
 	<groupId>com.bpi</groupId>
 	<artifactId>bibliotheque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+	<name>bibliotheque</name>
+	<name>nom de la ville</name>
+	<name>bibliotheque_JPG</name>
+
+	<description>coucouc Rapha</description>	
+	<description>ALLEZ L'OM !!! </description>
+	<description>Ici c'est ... Paris !!! Halla Madrid </description>
+
+
 	<name>bibliotheque RAPHHHHH</name>
+
 	<description>bibliotheque Paris</description>
+
+	<description>Bonjour Alexandre ! </description>
+	<description>Bonjour Mouna</description>
+
+	<description>bibliotheque Meaux</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -72,6 +88,23 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
+	
+	  <reporting>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-project-info-reports-plugin</artifactId>
+        <version>2.6</version>
+        <reportSets>
+          <reportSet>
+            <reports><!-- select reports -->
+              <report>index</report>
+            </reports>
+          </reportSet>
+        </reportSets>
+      </plugin>
+    </plugins>
+  </reporting>
 
 	<dependencyManagement>
 		<dependencies>
