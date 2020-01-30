@@ -18,7 +18,12 @@
 	<name>bibliotheque RAPHHHHH</name>
 
 	<description>bibliotheque Paris</description>
+
+	<description>Bonjour Alexandre ! </description>
+	<description>Bonjour Mouna</description>
+
 	<description>bibliotheque Meaux</description>
+
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR1</spring-cloud.version>
