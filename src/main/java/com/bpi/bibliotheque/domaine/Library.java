@@ -22,6 +22,10 @@ public class Library {
         this.placeNumber = placeNumber;
     }
 
+    public Library(Integer placeNumber) {
+        this.placeNumber = placeNumber;
+    }
+
     public Library(String name) {
         this.name = name;
     }
