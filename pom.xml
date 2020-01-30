@@ -12,7 +12,8 @@
 	<artifactId>bibliotheque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bibliotheque_JPG</name>
-	<description>Ici c'est ... Paris !!! </description>
+	<description>Ici c'est ... Paris !!! </description>	
+	<description>ALLEZ L'OM !!! </description>
 
 	<properties>
 		<java.version>1.8</java.version>
