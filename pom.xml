@@ -12,7 +12,11 @@
 	<artifactId>bibliotheque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+
 	<name>bibliotheque on va utiliser stash</name>
+
+	<name>bibliotheque DevOps</name>
+
 	<name>nom de la ville</name>
 	<name>bibliotheque_JPG</name>
 
