@@ -18,6 +18,9 @@
 	<description>ALLEZ L'OM !!! </description>
 	<description>Ici c'est ... Paris !!! Halla Madrid </description>
 
+	<name>bibliotheque RAPHHHHH</name>
+	<description>bibliotheque Paris</description>
+	<description>bibliotheque Melun</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR1</spring-cloud.version>
