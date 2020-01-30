@@ -4,4 +4,4 @@ Wesh
 
 # On est vraiment dans la merge !!!
 
-Et jusqu’au cou !
+Et jusques au cou !
