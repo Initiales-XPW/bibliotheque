@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bpi</groupId>
-	<artifactId>bibliotheque_JPGibart</artifactId>
+	<artifactId>bibliotheque_Morad</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bibliotheque</name>
 	<description>bibliotheque Paris</description>
