@@ -11,8 +11,12 @@
 	<groupId>com.bpi</groupId>
 	<artifactId>bibliotheque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
 	<name>bibliotheque</name>
 	<name>nom de la ville</name>
+
+	<name>bibliotheque RAPHHHHH</name>
+
 	<description>bibliotheque Paris</description>
 	<description>bibliotheque Meaux</description>
 	<properties>

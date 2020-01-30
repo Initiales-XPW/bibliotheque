@@ -34,6 +34,9 @@
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
 
+# COUCOU je SUIS là
+
+
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
   if [ -f /etc/mavenrc ] ; then
